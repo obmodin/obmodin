@@ -1,16 +1,26 @@
-## Hi there 👋
+# Obmodin
 
-<!--
-**obmodin/obmodin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Obmodin is a Minecraft project discovery website for mods, plugins, resource packs, modpacks, shaders, and data packs.
 
-Here are some ideas to get you started:
+Website: https://obmodin.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About
+
+Obmodin helps Minecraft players browse and discover projects from different sources in one place. The site includes project pages, version information, downloads, categories, and news updates related to the platform.
+
+## Features
+
+- Browse Minecraft mods, plugins, resource packs, modpacks, shaders, and data packs
+- View project details, versions, loaders, and supported game versions
+- Discover projects from Obmodin and supported external sources
+- Read Obmodin news and platform updates
+
+## Links
+
+- Website: https://obmodin.com
+- Projects: https://obmodin.com/projects
+- News: https://obmodin.com/news
+
+## Notice
+
+Obmodin is not affiliated with Mojang Studios, Microsoft, Modrinth, or CurseForge.
